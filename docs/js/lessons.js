@@ -1,6 +1,6 @@
 export const lessons = [
   {
-    numLessons: 3,
+    numLessons: 2,
     issue: 'Maven',
     day: 30,
     msg: 'Tu trabajo te representa, Robert C Martin',
@@ -16,7 +16,7 @@ export const lessons = [
         mensaje emergente (JOptionPane) con el texto “¡Hola <texto escrito en el campo
         de texto>!”.`,
         urlCode: 'https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-java-2510-ta19/tree/main/src/ejercicio1',
-        urlPG: 'https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-maven-2510-ta20/blob/main/docs/assets/20-1.png?raw=true',
+        urlPG: 'https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-java-2510-ta19/blob/main/docs/assets/1.png?raw=true',
       },
       {
         numExercise: 2,
@@ -27,7 +27,7 @@ export const lessons = [
         Al pulsar el botón Añadir la película que hayamos metido, se introducirá en el
         JComboBox.`,
         urlCode: 'https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-java-2510-ta19/tree/main/src/ejercicio2',
-        urlPG: 'https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-java-2510-ta19/blob/main/docs/assets/1.png?raw=true'
+        urlPG: 'https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-java-2510-ta19/blob/main/docs/assets/2.png?raw=true'
       },
       {
         numExercise: 3,
@@ -40,7 +40,7 @@ export const lessons = [
         Horas dedicadas en el ordenador (usaremos un slider entre 0 y 10)<br>
         Por ultimo, nos mostrara por pantalla los datos introducidos.`,
         urlCode: 'https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-java-2510-ta19/tree/main/src/ejercicio3',
-        urlPG: 'https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-java-2510-ta19/blob/main/docs/assets/2.png?raw=true'
+        urlPG: 'https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-java-2510-ta19/blob/main/docs/assets/3.png?raw=true'
       },
       {
         numExercise: 4,
@@ -48,7 +48,7 @@ export const lessons = [
         description: `
         Haciendo uso de ésta biblioteca java swing vamos a crear una "MiniCalculadora" con las operaciones básicas como lo son: suma, resta, multiplicación y división. <br>`,
         urlCode: 'https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-java-2510-ta19/tree/main/src/ejercicio4',
-        urlPG: 'https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-java-2510-ta19/blob/main/docs/assets/3.png?raw=true'
+        urlPG: 'https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-java-2510-ta19/blob/main/docs/assets/4.png?raw=true'
       }
     ]
   },
