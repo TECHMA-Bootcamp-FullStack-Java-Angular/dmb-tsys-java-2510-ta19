@@ -23,7 +23,7 @@ public class CalculadoraUI {
 	        textField = new JTextField();
 	        textField.setForeground(Color.YELLOW);
 	        textField.setBackground(Color.BLACK);
-	        textField.setFont(new Font("Segoe UI", Font.BOLD, 20));
+	        textField.setFont(new Font("Agency FB", Font.BOLD, 50));
 	        textField.setHorizontalAlignment(JTextField.RIGHT);
 	        frame.getContentPane().add(textField, BorderLayout.NORTH);
 
