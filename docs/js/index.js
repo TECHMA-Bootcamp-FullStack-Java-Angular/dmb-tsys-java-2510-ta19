@@ -13,7 +13,7 @@ function assignExerciseValues(exerciseIndex) {
   const exercise = getExercise(exerciseIndex);
 
   // Actualiza los elementos DOM
-  ud.textContent = `Unidad C${getLessons(0).numLessons}-T20`;
+  ud.textContent = `Unidad C${getLessons(0).numLessons}-T19`;
    urlPG.href = exercise.urlPG;
   urlCode.href = exercise.urlCode;
   lessonsUnit.textContent = `Ejercicio nº ${exercise.numExercise}`;
